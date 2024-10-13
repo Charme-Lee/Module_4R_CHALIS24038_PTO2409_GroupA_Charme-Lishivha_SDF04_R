@@ -41,6 +41,12 @@ You have everything you need to start your project using the GitHub Starter repo
 
 1. Submit your GitHub repo link through the LMS. Remember to rename your project with your student number, group number and coach name. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
 
+# Loom Video
+
+-[Check out my video](https://www.loom.com/share/a55b6978dcba4d24ab8f5b93cdb5375e?sid=5e24145e-e86c-4859-8391-acd01e1b8aee)
+
 # Additional Resources
 
--[Projects](https://www.w3schools.com/css/css_positioning.asp)
+-[Position property](https://www.w3schools.com/css/css_positioning.asp)  
+-[Flex container](https://www.w3schools.com/css/css3_flexbox_container.asp)  
+-[CSS Positions in 4 min](https://www.youtube.com/watch?v=YEmdHbQBCSQ&t=126s)
