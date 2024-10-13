@@ -20,6 +20,7 @@ body {
 }
 
 .counter {
+  border: 2px solid black;
   background-color: #e5e5f7;
   opacity: 0.8;
   background-image: repeating-linear-gradient(
@@ -46,7 +47,7 @@ body {
   position: relative;
   display: flex;
   justify-content: space-around;
-  position: absolute;
+  /* position: absolute; */
 }
 
 .pastry {
